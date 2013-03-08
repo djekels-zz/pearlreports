@@ -1,0 +1,33 @@
+{
+  "info" : 
+  {
+    "name" : "pr",
+
+    "summary" : "BWTool Reporter",
+    "description" : "A generic Reporting Tool",
+    
+    "homepage" : "",
+
+    "license" : "GPLv3",
+    "authors" : 
+    [
+      {
+        "name" : "Tobias Oetiker (oetiker)",
+        "email" : "tobi@oetiker.ch"
+      }
+    ],
+
+    "version" : "#VERSION#",
+    "qooxdoo-versions": ["2.1.1"]
+  },
+  
+  "provides" : 
+  {
+    "namespace"   : "pr",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "application"
+  }
+}

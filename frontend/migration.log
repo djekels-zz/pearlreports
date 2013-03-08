@@ -1,0 +1,94 @@
+
+UPGRADE TO 1.4.1
+----------------------------------------------------------------------------
+  * Number of script input files: 29
+  * Number of HTML input files: 0
+  * Update to version: 1.4.1
+  * Searching for patch module...
+  * Searching for info expression data...
+    - Compiling expressions...
+    - Number of infos: 0
+  * Searching for patch expression data...
+    - Compiling expressions...
+    - Number of patches: 0
+
+  FILE PROCESSING:
+----------------------------------------------------------------------------
+  * Processing script files:
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/SearchView.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Color.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Decoration.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/MsgBox.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/Logo.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/Data.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Font.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/Properties.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/Server.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/View.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/Table.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/ChartImage.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/DataTable.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/Desktop.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Appearance.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/IFrame.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/NodeTableModel.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/FrontendConfig.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Theme.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/LoadingBox.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/Chart.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/AbstractVisualizer.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/Application.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/TreeView.js
+  * Done
+
+UPGRADE TO 1.4.2
+----------------------------------------------------------------------------
+  * Number of script input files: 29
+  * Number of HTML input files: 0
+  * Update to version: 1.4.2
+  * Searching for patch module...
+  * Searching for info expression data...
+    - Compiling expressions...
+    - Number of infos: 0
+  * Searching for patch expression data...
+    - Compiling expressions...
+    - Number of patches: 0
+
+  FILE PROCESSING:
+----------------------------------------------------------------------------
+  * Processing script files:
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/SearchView.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Color.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Decoration.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/MsgBox.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/Logo.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/Data.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Font.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/Properties.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/Server.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/View.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/Table.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/ChartImage.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/DataTable.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/Desktop.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Appearance.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/IFrame.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/NodeTableModel.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/data/FrontendConfig.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/Theme.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/LoadingBox.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/Chart.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/theme/__init__.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/visualizer/AbstractVisualizer.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/Application.js
+  - File: /home/oetiker/checkouts/extopus/software/frontend/source/class/ep/ui/TreeView.js
+  * Done

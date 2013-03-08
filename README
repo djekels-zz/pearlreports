@@ -1,0 +1,19 @@
+PearlReports - A Report Generator and Display
+
+Version: #VERSION#
+Date: #DATE#
+
+Setup
+-----
+
+Just follow the hints issued by
+
+ ./configure
+ make install
+
+Action
+------
+
+The action is on https://github.com/oetiker/pearlreports
+
+Enjoy!
