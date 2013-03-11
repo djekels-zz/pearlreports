@@ -1,38 +1,38 @@
 =head1 NAME
 
-Bwtr::Index - BWTool Report Viewer
+Pr::Index - Pearlreports Documentation Index
 
 =head1 ADMIN DOCUMENTAION
 
-Bwtr is a plugin based system. Reporters are implemented by sub-classing
-L<Bwtr::Reporter>.
+Pearlreport is a plugin based system. Reporters are implemented by sub-classing
+L<Pr::Reporter>.
 
 =head1 TECH DOCUMENTATION
 
-The Bwtr backend is written in perl, using the the L<Mojolicious>. See
+The Pr backend is written in perl, using the the L<Mojolicious>. See
 L<Mojolicious::Guides> for details.
 
 =over
 
 =item *
 
-L<Bwtr> - the mojo application starting point
+L<Pr> - the mojo application starting point
 
 =item * 
 
-L<Bwtr::Config> - the configuration object
+L<Pr::Config> - the configuration object
 
 =item * 
 
-L<Bwtr::Cfg> - the configuration Syntax
+L<Pr::Cfg> - the configuration Syntax
 
 =item * 
 
-L<Bwtr::RpcService> - the json rpc api
+L<Pr::RpcService> - the json rpc api
 
 =item *
 
-L<Bwtr::Reporter> - the report base class
+L<Pr::Reporter> - the report base class
 
 =back
 
